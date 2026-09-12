@@ -1,7 +1,6 @@
 name: Test and build producer
 
 on:
-  push:
   pull_request:
 
 jobs:
