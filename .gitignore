@@ -1,0 +1,7 @@
+.env
+*.key
+model.tar.gz
+model.tar.gz.enc
+.pytest_cache/
+__pycache__/
+*.py[cod]
